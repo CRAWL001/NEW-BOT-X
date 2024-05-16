@@ -16,15 +16,15 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  OWNER_NUMBER: "94714184446",
+  SUDO_NUMBERS : "94723276400,94716682532",
+  OWNER_NAME: "『 CRAWL 』",
+  BOT_NAME : "CRAWL BOT",
+  ZUSYCO_FILE : "CRAWL-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
-    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
+    ALIVE: 'https://telegra.ph/file/4cf337052c09eec06f3e8.jpg',
+    WELCOME: 'https://telegra.ph/file/4cf337052c09eec06f3e8.jpg',
+    GOODBYE: 'https://telegra.ph/file/4cf337052c09eec06f3e8.jpg'
   },
   STOP_SEND : {
         WELCOME_MESSAGE : false,
@@ -35,24 +35,24 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ CRAWL ᴍᴅ ʙᴏᴛ',
+  STICKER_PACK : '[ CRAWL ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
-  ANTI_LINK : false,
-  ANTI_LINK_KICK : false,
-  MAX_SIZE : 100,
+  ANTI_LINK : true,
+  ANTI_LINK_KICK : true,
+  MAX_SIZE : 1000,
   MOROCCO_NUMBERS : {
-        BLOCK : false,
-        NOT_WORKING : false,
+        BLOCK : true,
+        NOT_WORKING : true,
   },
   READ : {
-     ALL_MESSAGES : true,
-     ONLY_COMMANDS : false,
-     STATUS : false,
+     ALL_MESSAGES : false,
+     ONLY_COMMANDS : true,
+     STATUS : true,
   },
-  BOT_OFFLINE : false,
+  BOT_OFFLINE : true,
   INBOX_BLOCK : false,
   AUTO_REACT : false,
   OWNER_REACT : '🤵‍♂️',
@@ -72,7 +72,7 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : false,
+  AUTO_STICKER : true,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
